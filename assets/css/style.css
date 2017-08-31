@@ -166,12 +166,12 @@ article, aside, footer, header, hgroup, main, nav, section {
 	background: -webkit-linear-gradient(top, #feffff 0%,#ddf1f9 35%,#a0d8ef 100%);
 	margin-top:10px;
 	text-align:center;
-	float:bottom;
+	/*float:bottom;*/
 }
 
 .page-wrap {
   min-height: 100%;
-  /* equal to footer height */
+ 
   margin-bottom: -30px; 
 }
 .page-wrap:after {
@@ -275,6 +275,7 @@ article, aside, footer, header, hgroup, main, nav, section {
 		padding:10px;
 		margin-bottom:10px;
 		margin-right:0px;
+		
 	}
 
 
